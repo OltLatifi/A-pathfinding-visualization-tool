@@ -1,1 +1,1 @@
-# A-pathfinding-visualization-tool
+# A*-pathfinding-visualization-tool
